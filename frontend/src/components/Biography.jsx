@@ -11,26 +11,16 @@ const Biography = ({imageUrl}) => {
           <p>Biography</p>
           <h3>Who We Are</h3>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
-            blanditiis sequi aperiam. Debitis fugiat harum ex maxime illo
-            consequatur mollitia voluptatem omnis nihil nesciunt beatae esse
-            ipsam, sapiente totam aspernatur porro ducimus aperiam nisi. Ex
-            magnam voluptatum consectetur reprehenderit fugiat recusandae aut
-            similique illum natus velit, praesentium nostrum nesciunt. Deleniti,
-            nesciunt laboriosam totam iusto!
+          In an era where efficient healthcare delivery is paramount, our Healthcare Management System aims to revolutionize how healthcare providers manage patient information and services. This project was motivated by the persistent challenges faced by healthcare professionals, including inefficiencies in record-keeping and appointment management, which can hinder patient care.
           </p>
           <p>We are all in 2024!</p>
-          <p>We are working on a MERN STACK PROJECT.</p>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores
-            assumenda exercitationem accusamus sit repellendus quo optio dolorum
-            corporis corrupti. Quas similique vel minima veniam tenetur
-            obcaecati atque magni suscipit laboriosam! Veniam vitae minus nihil
-            cupiditate natus provident. Ex illum quasi pariatur odit nisi
-            voluptas illo qui ipsum mollitia. Libero, assumenda?
+          Designed for healthcare providers, patients, and administrators, our system offers features such as real-time patient record access, streamlined appointment scheduling, and secure billing processes. By leveraging technologies like Node.js, MongoDB, and React, we ensure a robust and user-friendly experience.
+
+We believe that this system will not only enhance the quality of care but also reduce administrative burdens, paving the way for a more responsive healthcare environment. Our vision is to contribute to a healthcare landscape that prioritizes efficiency, accessibility, and patient-centered care.
           </p>
-          <p>Lorem ipsum dolor sit amet!</p>
-          <p>Coding is fun!</p>
+          <p>Feel free to adapt this structure to fit your project's unique aspects!</p>
+          
         </div>
       </div>
     </>
